@@ -1,28 +1,2 @@
-# Ignore node modules folder
 node_modules/
-
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Dependency directories
-jspm_packages/
-
-# Environment variables file
-.env
-
-# Optional npm cache directory
-.npm
-
-# Optional REPL history
-.node_repl_history
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# IDE files (for VSCode)
-.vscode/
-
 .env
